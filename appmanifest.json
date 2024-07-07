@@ -1,6 +1,6 @@
 {
-	"name": "Zig Snake",
-	"short_name": "Zig Snake",
+	"name": "Snoke",
+	"short_name": "Snoke",
 	"description": "Minimalist Game 57",
 	"start_url": "index.html",
 	"display": "fullscreen",
@@ -9,27 +9,22 @@
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
-			"sizes": "16x16",
+			"sizes": "16x22",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/icon-32.png",
-			"sizes": "32x32",
+			"sizes": "32x48",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/icon-114.png",
-			"sizes": "114x114",
-			"type": "image/png"
-		},
-		{
-			"src": "icons/icon-128.png",
-			"sizes": "128x128",
+			"sizes": "114x154",
 			"type": "image/png"
 		},
 		{
 			"src": "icons/icon-256.png",
-			"sizes": "256x256",
+			"sizes": "256x391",
 			"type": "image/png"
 		}
 	],
